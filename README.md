@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @meghayadav6
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on Web development projects 
 - 📫 email-meghayadav6n@gmail.com
 
